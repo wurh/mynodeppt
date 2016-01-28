@@ -7,6 +7,9 @@ theme: dark
 usemathjax: yes
 
 [slide]
+# scrat 与 活动运营
+
+[slide]
 # 首先？
 
 [slide]
@@ -62,8 +65,79 @@ usemathjax: yes
 * 生态模块基于 component 规范开发，部署到Github上
 * 可以通过命令行工具将Github上的模块安装到工程中使用
 
+[slide]
+#因此我们选择了scrat！
+
+[slide]
+#未来?
+
+[slide]
+#模块化活动运营之路~  (计划)
+
+[slide]
+#活动运营后台
+
+[slide]
+#前端个性化
+----
+* 希望能区分用户群体,内容差异化,个性化 {:&.rollIn}
+* 页面可以分模板，分模块
+* 按一定条件组件对应的运营页，支持灰度与定时发布
+* 高性能要求
+
+[slide]
+![rahul](/img/yunyinghoutai.png "rahul")
+
+[slide]
+#But...
+----
+* 数据模板耦合，运营直接改代码? {:&.rollIn}
+* 只支持html 模块管理，脚本样式如何管理?
+* 页面个性化，模板随便冗余，如何进行版本管理?
+* 条件分支多，调试，测试，定位困难...
+
+[slide]
+#So
+----
+##开发阶段
+* 定义好代码的组织 {:&.rollIn}
+* 代码的规范化
+* 做好页面组件划分
+
+[slide]
+##上线阶段
+----
+* 组件重用性 {:&.rollIn}
+* 组件的丰富性
+
+[slide]
+##运营阶段
+----
+* 理解统一 {:&.rollIn}
+* 技术隔离
+* 可视化与傻瓜式运营
+
+[slide]
+![rahul](/img/huodongpc1.png "rahul")
+
+[slide]
+![rahul](/img/huodongwap.png "rahul")
+
+[slide]
+#结论:
+----
+* 页面 = 布局 + 组件 {:&.rollIn}
+* 组件 = 模板 + 样式 + 脚本 + 图片 + 数据
 
 
 [slide]
-<iframe data-src="http://scrat.io/#!/index" src="about:blank;" style="width:1000px;height:600px"></iframe>
+## 通过scrat olpm 模式打通前端工程链路
+
+[slide]
+## 计划线上数据运营管理后台
+
+[slide]
+# Q&A
+
+
 
