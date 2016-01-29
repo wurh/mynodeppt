@@ -46,8 +46,8 @@ usemathjax: yes
 [slide style="background-image:url('/img/yonghao.jpg')"]
 <span style="color:white;font-size:50px">下面将由我们的小伙伴开始介绍~~</span>
 
-[slide style="background-image:url('/img/qianduanjpg')"]
-#欢迎进入前端的世界!!
+[slide style="background-image:url('/img/begin.jpg')"]
+<span style="color:white;font-size:50px">欢迎进入前端的世界!!</span>
 
 
 
