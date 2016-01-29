@@ -20,13 +20,39 @@ usemathjax: yes
 [slide]
 #男女比例
 ----
-<img src="/img/nannv.png" style="width:1000px;height:800px">
+<iframe data-src="/html/nannv.html" src="about:blank;" style="width:800px;height:400px"></iframe>
 
 [slide]
 #男女搭配干活不累~~~
 
 [slide]
 #承接的业务
+
+[slide]
+<iframe data-src="/html/business.html" src="about:blank;" style="width:1000px;height:600px"></iframe>
+
+[slide]
+#主要的语言
+
+[slide]
+<iframe data-src="/html/code.html" src="about:blank;" style="width:1000px;height:600px"></iframe>
+
+[slide]
+#涉及的领域
+
+[slide]
+<iframe data-src="/html/lingyu.html" src="about:blank;" style="width:1000px;height:600px"></iframe>
+
+[slide style="background-image:url('/img/yonghao.jpg')"]
+<span style="color:white;font-size:50px">下面将由我们的小伙伴开始介绍~~</span>
+
+[slide style="background-image:url('/img/qianduanjpg')"]
+#欢迎进入前端的世界!!
+
+
+
+
+
 
 
 

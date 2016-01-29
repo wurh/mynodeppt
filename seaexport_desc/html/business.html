@@ -1,0 +1,55 @@
+<!doctype >
+<html style="width: 100%; height: 100%">
+<head>
+    <meta charset="utf-8">
+</head>
+<body style="width: 100%; height: 100%; margin: 0">
+<div id="container" style="width: 100%; height: 100%"></div>
+<script type="text/javascript" src="../js/echarts.min.js"></script>
+<script type="text/javascript">
+    var dom = document.getElementById("container");
+    var myChart = echarts.init(dom);
+    var app = {};
+    option = null;
+    option = {
+        title : {
+            text: '前端组承接的业务',
+            subtext: '好多需求方~~~',
+            x:'center'
+        },
+        tooltip : {
+            trigger: 'item',
+            formatter: "{a} <br/>{b} : {c} ({d}%)"
+        },
+        legend: {
+            orient: 'vertical',
+            left: 'left',
+            data: ['PC端前端','移动端前端(h5)','运营后台前端','活动运营前端','edm模板']
+        },
+        series : [
+            {
+                name: '承接的业务',
+                type: 'pie',
+                radius : '55%',
+                center: ['50%', '60%'],
+                data:[
+                    {value:1000, name:'PC端前端'},
+                    {value:800, name:'移动端前端(h5)'},
+                    {value:800, name:'运营后台前端'},
+                    {value:200, name:'活动运营前端'},
+                    {value:100, name:'edm模板'}
+                ],
+                itemStyle: {
+                    emphasis: {
+                        shadowBlur: 10,
+                        shadowOffsetX: 0,
+                        shadowColor: 'rgba(0, 0, 0, 0.5)'
+                    }
+                }
+            }
+        ]
+    };
+    myChart.setOption(option);
+</script>
+</body>
+</html>
