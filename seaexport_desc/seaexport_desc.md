@@ -10,7 +10,7 @@ usemathjax: yes
 # 走进"vipme-frontend"
 ## vipme-frontend 介绍
 
-[slide]
+[slide data-transition="earthquake"]
 #vipme-frontend
 ##【出口事业部前端组】
 ----
