@@ -16,9 +16,9 @@ usemathjax: yes
 # 来个自我介绍吧
 ----
 * 我叫吴荣华 {:&.rollIn}
-* 目前负责前端业务
+* 目前负责出口事业部<span style="color:orange">前端业务</span>
 * github地址:https://github.com/wurh
-* 欢迎大家访问上面的地址，然后点击follow
+* 欢迎大家访问上面的地址，然后点击<span style="color:#00ff00">follow</span>
 
 [slide]
 ## 防伪图片
@@ -32,7 +32,8 @@ usemathjax: yes
 
 [slide]
 ----
-* 我们希望能像 搭积木 一样开发和维护系统，最终通过 组装模块 得到一个完整的应用。
+* 我们希望能像 搭积木 一样开发和维护系统;
+* 最终通过 组装模块 得到一个完整的应用。
 
 [slide]
 #模块化开发！！！
@@ -53,7 +54,8 @@ usemathjax: yes
 
 [slide]
 ----
-* “我们希望每次研发新产品不是从零开始，不同团队不同项目之间能有可复用的模块沉淀下来。”
+* 希望每次研发新产品不是从零开始;
+* 不同团队不同项目之间能有可复用的模块沉淀下来。
 
 [slide]
 ![rahul](/img/tree.png "rahul")
@@ -134,10 +136,16 @@ usemathjax: yes
 ## 通过scrat olpm 模式打通前端工程链路
 
 [slide]
-## 计划线上数据运营管理后台
+## 通过线上数据运营管理后台
+----
+* 完成可视化傻瓜式运营 {:&.rollIn}
+* (计划中~~)
+
+[slide]
+## 演示
 
 [slide]
 # Q&A
-
+## 谢谢大家 -- O(∩_∩)O！
 
 

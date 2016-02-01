@@ -44,10 +44,14 @@ usemathjax: yes
 <iframe data-src="/html/lingyu.html" src="about:blank;" style="width:1000px;height:600px"></iframe>
 
 [slide style="background-image:url('/img/yonghao.jpg')"]
-<span style="color:white;font-size:50px">下面将由我们的小伙伴开始介绍~~</span>
+<div style="color:white;font-size:50px">我们都是一群</div>
+<br />
+<div style="color:white;font-size:30px">很有(huì)情(zhuāng)怀(bī)的年轻人!</div>
 
 [slide style="background-image:url('/img/begin.jpg')"]
-<span style="color:white;font-size:50px">欢迎进入前端的世界!!</span>
+<div style="color:white;font-size:50px">欢迎进入前端的世界!!</div>
+<br />
+<div style="color:white;font-size:30px">下面交给我们的小伙伴进行介绍~</div>
 
 
 
