@@ -255,7 +255,10 @@ router.get('/register', function(req, res, next) {
 <img src="/images/2016-02-01/qa.jpg" />
 
 [slide]
-**Thank you!**
+<style>
+    .thank {corlor: white;}
+</style>
+<div class="thank">**Thank you!**</div>
 
 
 
