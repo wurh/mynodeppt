@@ -7,7 +7,7 @@ theme: moon
 usemathjax: yes
 
 [slide]
-# 「VIPME运营后台」开荒之路
+# 「运营后台」开荒之路
 ##### 唯品会 - 出口事业部
 
 [slide]

@@ -1,4 +1,4 @@
-title: 「VIPME运营后台」的开荒之路
+title: 「运营后台」的开荒之路
 speaker: 宝龙
 transition: slide3
 files: /js/demo.js,/css/demo.css,/js/zoom.js
@@ -6,7 +6,7 @@ theme: moon
 usemathjax: yes
 
 [slide data-transition="pulse"]
-# 「VIPME运营后台」的开荒之路
+# 「运营后台」的开荒之路
 ##### 唯品会·出口事业部·前端运营后台小组
 
 

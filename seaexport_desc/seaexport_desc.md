@@ -1,4 +1,4 @@
-title: 走进"vipme-frontend"
+title: 走进"frontend"
 speaker: 吴荣华(rahul.wu)
 url: https://github.com/wurh/mynodeppt
 transition: slide3
@@ -7,11 +7,11 @@ theme: light
 usemathjax: yes
 
 [slide data-transition="cover-diamond"]
-# 走进"vipme-frontend"
-## vipme-frontend 介绍
+# 走进"frontend"
+## frontend 介绍
 
 [slide data-transition="cover-diamond"]
-#vipme-frontend
+#frontend
 ##【出口事业部前端组】
 ----
 * 12位小伙伴 {:&.rollIn}
