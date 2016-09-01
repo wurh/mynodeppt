@@ -104,9 +104,7 @@ usemathjax: yes
 
 [slide data-transition="zoomout"]
 # 工程目录:
-
-![alt text](http://7xawfk.com1.z0.glb.clouddn.com/blog/project3.png "工程目录")
-
+<img style="width:200px" src="http://7xawfk.com1.z0.glb.clouddn.com/blog/project3.png" />
 [slide data-transition="zoomout"]
 
 #整个工程基本会由4个目录组成：
@@ -285,8 +283,11 @@ module.exports = {
 - common目录为全工程通用业务包
 
 [slide data-transition="zoomout"]
-- page 目录为页面组件
-- index 页面:index 目录下会存放 index.js;index.tpl;index.styl
+- page 目录为页面组件  {:&.rollIn}
+- 举个栗子 index 页面下会有
+- index.js
+- index.tpl
+- index.styl
 
 [slide data-transition="zoomout"]
 # index 页面代码
@@ -344,7 +345,11 @@ module.exports = {
 - widgets 目录为可复用独立组件
 
 [slide data-transition="zoomout"]
-- 举个栗子head组件， head 组件目录同样会存在head.js, head.tpl, head.styl文件
+- 举个栗子head组件    {:&.rollIn}
+- head 组件目录同样会存在
+- head.js
+- head.tpl
+- head.styl
 
 [slide data-transition="zoomout"]
 # head 组件代码块
