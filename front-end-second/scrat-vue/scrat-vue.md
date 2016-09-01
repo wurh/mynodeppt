@@ -32,7 +32,7 @@ usemathjax: yes
 ----
 # 项目背景
 
-- VIPME 业务快速增长迭代，需要多个业务平台进行支撑
+- VIPME 业务快速增长迭代，需要多个业务平台进行支撑  {:&.rollIn}
 - 公司各系统接入需要多方配合支撑，周期较长
 - 10个人左右的前端工程师队伍
 - 支撑8+个业务 -- 繁，杂
@@ -41,7 +41,7 @@ usemathjax: yes
 [slide data-transition="zoomout"]
 #需求
 
-- 需要搭建可复用组件的架构
+- 需要搭建可复用组件的架构  {:&.rollIn}
 - 需要搭建已经包含工程化(代码压缩，合并；combo服务，实施监听代码变化等)的架构
 - 需要灵活套用各种UI框架，提高平台逼格的架构
 
@@ -49,7 +49,7 @@ usemathjax: yes
 
 #选型
 
-- scrat 完成模块化，工程化实现
+- scrat 完成模块化，工程化实现 {:&.rollIn}
 - vue 实现组件化，模板开发
 
 [slide data-transition="zoomout"]
@@ -68,7 +68,7 @@ usemathjax: yes
 
 # 特点如下:
 
-- 一个目录一个模块，模块包含（模板文件，脚本，样式，以及静态资源）
+- 一个目录一个模块，模块包含（模板文件，脚本，样式，以及静态资源） {:&.rollIn}
 - 支持模块化开发，模块间引入与nodejs保持一致
 - 支持css预处理， stylus less sass 等
 - 与nodejs服务框架（express） 完美配合，可进行前后端服务层面分离
@@ -111,7 +111,7 @@ usemathjax: yes
 
 #整个工程基本会由4个目录组成：
 
-- components_modules: 公用组件库 （组件生态,外部引用）
+- components_modules: 公用组件库 （组件生态,外部引用） {:&.rollIn}
 - components：  项目可复用的组件块
 - server: node.js 服务层
 - views: 工程视图区间以及第三方引用包
@@ -281,7 +281,7 @@ module.exports = {
 ```
 
 [slide data-transition="zoomout"]
-- util目录为全工程通用工具包
+- util目录为全工程通用工具包 {:&.rollIn}
 - common目录为全工程通用业务包
 
 [slide data-transition="zoomout"]
