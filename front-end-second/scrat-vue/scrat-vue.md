@@ -16,13 +16,9 @@ usemathjax: yes
 # 来个自我介绍吧
 ----
 * 我叫吴荣华 {:&.rollIn}
-* 目前负责出口事业部<span style="color:orange">前端业务</span>
+* 目前负责出口事业部<span style="color:blue">前端业务</span>
 * github地址:https://github.com/wurh
-* 欢迎大家访问上面的地址，然后点击<span style="color:#00ff00">follow</span>
-
-[slide data-transition="zoomout"]
-## 防伪图片
-![rahul](/img/myself.png "rahul")
+* 欢迎大家访问上面的地址，然后点击<span style="color:red">follow</span>
 
 [slide data-transition="zoomout"]
 # 进入正题
@@ -76,8 +72,17 @@ usemathjax: yes
 [slide data-transition="zoomout"]
 # 认识 Vue
 - Vue 是一个实现了web component 式开发的轻量级mvvm框架
-
 # 官网地址：http://cn.vuejs.org/
+
+[slide data-transition="zoomout"]
+# Web Components
+
+- Custom Elements   {:&.rollIn}
+- HTML Imports
+- Templates
+- Shadow DOM
+
+
 [slide data-transition="zoomout"]
 ![alt text](http://7xawfk.com1.z0.glb.clouddn.com/blog/vue1.png "ViewModel")
 - 支持数据驱动的视图，实现DOM 与 底层数据 双向绑定
@@ -200,7 +205,13 @@ module.exports = function () {
 ```
 
 [slide data-transition="zoomout"]
-- config 作为工程前端配置目录，分别有a-config.js; p-config.js; m-config.js
+
+ config 作为工程前端配置目录
+
+  - a-config.js  {:&.rollIn}
+  - p-config.js
+  - m-config.js
+
 
 [slide data-transition="zoomout"]
 # a-config.js  负责API接口配置管理
@@ -412,8 +423,13 @@ module.exports = init;
 ![alt text](http://7xawfk.com1.z0.glb.clouddn.com/blog/todom1.png "原来的样子")
 
 [slide data-transition="zoomout"]
+
 # 总结:
-- 当模块化的框架工程遇到组件式的框架技术，将会产生提高前端研发效率的火花!
+
+- scrat : 前端开发中自动化工具、性能优化、模块化框架、开发规范、代码部署、开发流程的框架。
+- vue : 简洁，轻量，快速，数据驱动，模块优化，组件化的MVVM框架。
+- scrat + vue : 提高研发效率，组件可读性，可复用性，稳定性的研发脚手架。
+
 
 [slide data-transition="zoomout"]
 # Q&A
