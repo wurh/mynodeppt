@@ -9,20 +9,16 @@ usemathjax: yes
 [slide data-transition="zoomout"]
 # scrat + vue 快速搭建组件式架构
 
-[slide data-transition="zoomout"]
-# 首先？
+-- talker:吴荣华
+
 
 [slide data-transition="zoomout"]
-# 来个自我介绍吧
+# 自我介绍
 ----
 * 我叫吴荣华 {:&.rollIn}
 * 目前负责出口事业部<span style="color:blue">前端业务</span>
 * github地址:https://github.com/wurh
 * 欢迎大家访问上面的地址，然后点击<span style="color:red">follow</span>
-
-[slide data-transition="zoomout"]
-# 进入正题
-
 
 [slide data-transition="zoomout"]
 ----
