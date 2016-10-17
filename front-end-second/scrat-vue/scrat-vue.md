@@ -42,7 +42,7 @@ usemathjax: yes
 #选型
 
 - scrat 完成模块化，工程化实现 {:&.rollIn}
-- vue 实现组件化，模板开发
+- vue 实现组件化开发
 
 [slide data-transition="zoomout"]
 
@@ -118,7 +118,7 @@ usemathjax: yes
 [slide data-transition="zoomout"]
 # 工程模块间调用设计
 
-![alt text](http://7xawfk.com1.z0.glb.clouddn.com/blog/des4.png "组件依赖")
+![alt text](http://7xawfk.com1.z0.glb.clouddn.com/blog/mokuaihua.png "组件依赖")
 
 [slide data-transition="zoomout"]
 
